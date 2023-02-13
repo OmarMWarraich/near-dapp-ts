@@ -77,3 +77,4 @@ near login
 ```
 
 and then use the logged account to sign the transaction: `--accountId <your-account>`.
+
